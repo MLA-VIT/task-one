@@ -17,6 +17,6 @@ Create a single-page website using HTML and CSS for your portfolio. Style it usi
 - Write an introduction of yourself 
 - Align the images
 
-If you have any doubts or find yourself stuck at any point, feel free to contact your mentors [Abhishek S Mattam](https://github.com/the911guy) or any one of the mentors in the group.
+If you have any doubts or find yourself stuck at any point, feel free to contact [Abhishek S Mattam](https://github.com/the911guy) or any one of the mentors in the group.
 
 Deadline: **5th October (Thursday)**
